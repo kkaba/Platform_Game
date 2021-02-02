@@ -1,6 +1,10 @@
 # Platform_Game
 Try it out! Tell me what you think!
 
+The project is written in JAVA, please download if not done already.
+
+You should be able to run it on any compiler (I run it on Eclipse).
+
 ReadMe
 
 1. Lauching the Program.
